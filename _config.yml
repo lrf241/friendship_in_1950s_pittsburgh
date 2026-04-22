@@ -34,7 +34,7 @@ author: Edith Young, Laura Finkle
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: friendship_in_1950s_pittsburgh_2
+metadata: friendship_in_1950s_pittsburgh
 
 ##########
 # Site/Organization Branding 
